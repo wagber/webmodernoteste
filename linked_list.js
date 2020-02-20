@@ -1,4 +1,4 @@
-/*OBSERVAÇÕES PARA LEMBRAR 
+/*OBSERVAÇÕES PARA LEMBRAR: 
 Complexidade Tempo e Espaço ==> O(n) 
 Se tivesse 2 while's, um dentro de outro a 
 complexidade seria O(n^2)*/
